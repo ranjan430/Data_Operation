@@ -14,6 +14,6 @@ sudo apt install ffmpeg
 
 ffmpeg -v
 ```
-2.Just put DAV files in DAV2MP4 derectory.
+2.Just put DAV files in DAV2MP4 directory.
 
 3. Run the "python3 dav2mp4_im.py" file.If you have bigger file, surely it takes time.
