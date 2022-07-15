@@ -1,0 +1,19 @@
+Most of the CCTV Camera output format as DAV files. Using ffmpeg we can convert Convert DAV format to Mp4 format. The ffmpeg already a "Multiprocessing" one. 
+
+
+# Steps to run the Script:
+
+1. Install ffmpeg for Ubuntu
+
+```
+For Ubuntu 
+``` 
+sudo apt-get update
+
+sudo apt install ffmpeg
+
+ffmpeg -v
+```
+2.Just put DAV files in DAV2MP4 derectory.
+
+3. Run the "python3 dav2mp4_im.py" file.If you have bigger file, surely it takes time.
