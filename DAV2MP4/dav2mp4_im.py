@@ -1,6 +1,3 @@
-#!/usr/bin/python
-
-
 """
     Purpose             : To convert DAV to MP4.
     Author              : Rakesh Ranjan
